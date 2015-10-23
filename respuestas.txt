@@ -3,3 +3,6 @@ RMV es una herramienta de línea de comandos que permite instalar facilmente, ge
 
 2.-¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
 Con el intérprete de ruby se ejecuta el código entero y devuelve la instrucción final, mientras con el intérprete interactivo ejecuta y muestra cada línea de código y devuelve un objeto "nil" si no hay nada que devolver.
+
+3.-¿Cuales son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con PRY?
+Con el intérprete Ruby aparecen las líneas de código hasta que se ejecuta el código de la llamada al intérprete interactivo, en cambio con PRY aparecen bien formateadas las entradas y salidas, es decir, aparece directamente el intérprete interactivo.
